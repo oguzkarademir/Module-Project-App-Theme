@@ -23,13 +23,13 @@ A User can see my initial repository and live demo
 - Add, commit and push the changes
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Create the header and the navigation menu
 
-__full user story description__
+> A user can see the name/titel of the webpage and menu tabs in this part
 
 ### Repo
 
-what branch(es) did you work on?
+> I worked on the branch name `header`
 
 ### HTML
 
