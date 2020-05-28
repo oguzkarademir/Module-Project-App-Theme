@@ -1,10 +1,8 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+Building A Responsive HTML & CSS Template With FlexboxGrid
 
 ## Wireframe
 
@@ -14,12 +12,15 @@ write a short description of your project:
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+A User can see my initial repository and live demo
 
 ### Repo
 
 - Generate from Template
-- Write initial, basic README
+- Clone the repository
+- Add wireframe
+- Write initial development-strategy and basic README
+- Add, commit and push the changes
 - Turn on GitHub Pages
 
 ## 1. __
