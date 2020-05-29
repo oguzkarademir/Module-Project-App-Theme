@@ -45,7 +45,7 @@ A User can see my initial repository and live demo
 
 ## 2. Create the showcase section for the main content of the home page
 
-> A user can see the text "Welcome to AppTheme" on a beautiful background image under the header section
+> A user can see the text "Welcome to AppTheme" on a beautiful background image below the header section
 
 ### Repo
 
@@ -82,7 +82,28 @@ A User can see my initial repository and live demo
 ### CSS
 
 * Downloaded and added `font-awesome.css` file in the css folder
-* Added color, font, margin and padding features for the showcase
+* Added color, font, margin and padding features 
+
+## 4. Create the features-info section for the main content of the home page
+
+> A user can see a list of core features and an image of iphone below the section of features with icons
+
+### Repo
+
+> I worked on the branch name `section-features-info`
+
+### HTML
+
+* Created `section` tag with the id name `info`
+* Used class `center-xs, center-sm, center-md, center-lg`for flexbox alignment features
+* Used class `col-xs-12, col-sm-6, col-md-6, col-lg-6` for responsive layout
+* Added an iphone's image with an `img` tag
+* Used `fa-check` class for the list of features
+
+### CSS
+
+* Added background image to the info section with `background: url();` feature
+* Added background, color, font, margin and padding features
 
 ## Finishing Touches
 
