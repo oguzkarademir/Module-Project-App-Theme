@@ -154,13 +154,17 @@ A User can see my initial repository and live demo
 
 ### HTML
 
-* Created `footer` tag with the id name `main-footer`
-* Used class `col-xs-12, col-sm-12, col-md-12, col-lg-12` for responsive layout
-* Used class `center-xs, center-sm, center-md, center-lg`for flexbox alignment features
+* Used responsive layout classes
+* Used flexbox alignment features classes
+* Created a subheader with `section` tag and id name `subheader` to write the name of the opened menu
+* Created a general id name `page` for the main content of each menu page and class name `about`, `contact` and `services` for each menu
+* Created the `form` tag containing the `button` and  `input` to enter the information in `contact.html` for those who want to contact
 
 ### CSS
 
-* Added green background and white color features
+* Added background, color, font, margin and padding features
+* Added the `margin-bottom: 40px; ' feature in id name `page` to leave some space between the menu name (subheader) and the main content.
+* Used a media query for the proper `AppTheme` titel view in main content in mobile responsive view on the home page
 
 ## Finishing Touches
 
