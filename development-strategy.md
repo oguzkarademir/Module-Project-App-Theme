@@ -43,11 +43,25 @@ A User can see my initial repository and live demo
 > Added border-bottom features to the header
 > Added background, list-style, color and hover features to the navbar menu
 
-## 2. ...
+## 2. Create the showcase section for the main content of the home page
 
-...
+> A user can see the text "Welcome to AppTheme" on a beautiful background image under the header section
 
-...
+### Repo
+
+> I worked on the branch name `section-showcase`
+
+### HTML
+
+> Created `section` tag with the id name `showcase`
+> Used class `center-xs, center-sm, center-md, center-lg`for flexbox alignment features
+> Used class `col-xs-10, col-sm-10, col-md-10, col-lg-7` for responsive layout
+
+### CSS
+
+> Added background image to the showcase with `background: url();` feature
+> Added color, font, margin and padding features for the showcase
+> Added `opacity` feature for transparency
 
 ## Finishing Touches
 
