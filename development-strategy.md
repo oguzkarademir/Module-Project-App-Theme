@@ -63,6 +63,27 @@ A User can see my initial repository and live demo
 * Added color, font, margin and padding features for the showcase
 * Added `opacity` feature for transparency
 
+## 3. Create the features section with icons for the main content of the home page
+
+> A user can see the all included features in this template with icons and some explanatory text under this icons
+
+### Repo
+
+> I worked on the branch name `section-features-icons`
+
+### HTML
+
+* Created `section` tag with the id name `features`
+* Used class `center-xs, center-sm, center-md, center-lg`for flexbox alignment features
+* Used class `col-xs-12, col-sm-4, col-md-4, col-lg-4` for responsive layout to the icons
+* Downloaded and linked `font-awesome.css` stylesheet and used classes of icons
+
+
+### CSS
+
+* Downloaded and added `font-awesome.css` file in the css folder
+* Added color, font, margin and padding features for the showcase
+
 ## Finishing Touches
 
 - Write final, complete README:
