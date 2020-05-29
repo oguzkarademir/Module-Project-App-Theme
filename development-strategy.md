@@ -8,7 +8,7 @@ Building A Responsive HTML & CSS Template With FlexboxGrid
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://user-images.githubusercontent.com/53440164/83305300-cb232800-a200-11ea-95cf-76108f61b4ec.png)
 
 ## 0. Set-Up
 
