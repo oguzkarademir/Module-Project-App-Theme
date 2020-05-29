@@ -126,6 +126,24 @@ A User can see my initial repository and live demo
 
 * Added background, color, margin and padding features
 
+6. Create the footer for the home page
+
+> A user can see the green section with copyright at the bottom in all pages
+
+### Repo
+
+> I worked on the branch name `footer`
+
+### HTML
+
+* Created `footer` tag with the id name `main-footer`
+* Used class `col-xs-12, col-sm-12, col-md-12, col-lg-12` for responsive layout
+* Used class `center-xs, center-sm, center-md, center-lg`for flexbox alignment features
+
+### CSS
+
+* Added green background and white color features
+
 ## Finishing Touches
 
 - Write final, complete README:
