@@ -105,6 +105,27 @@ A User can see my initial repository and live demo
 * Added background image to the info section with `background: url();` feature
 * Added background, color, font, margin and padding features
 
+## 5. Create the company section for the main content of the home page
+
+> A user can see the contact information of this company in this section
+
+### Repo
+
+> I worked on the branch name `section-company`
+
+### HTML
+
+* Created `section` tag with the id name `company`
+* Used class `col-xs-12, col-sm-4, col-md-4, col-lg-4` for responsive layout
+* Used `fa-phone` class for the phone number of the company
+* Used `fa-envelope` class for the mail address of the company
+* Used `fa-map` class for the address of the company
+* Created a `input` and `button` in `form` tag for subscribe to the newsletter
+
+### CSS
+
+* Added background, color, margin and padding features
+
 ## Finishing Touches
 
 - Write final, complete README:
