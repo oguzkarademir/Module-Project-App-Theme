@@ -33,15 +33,15 @@ A User can see my initial repository and live demo
 
 ### HTML
 
-> Created `header` tag
-> Created `nav` tag for navbar menu in the header tag
-> Used class `end-sm, end-md, end-lg`for flexbox alignment features of the navbar menu
-> Used class `col-xs-12, col-sm-10, col-md-10, col-lg-10` for responsive layout
+* Created `header` tag
+* Created `nav` tag for navbar menu in the header tag
+* Used class `end-sm, end-md, end-lg`for flexbox alignment features of the navbar menu
+* Used class `col-xs-12, col-sm-10, col-md-10, col-lg-10` for responsive layout
 
 ### CSS
 
-> Added border-bottom features to the header
-> Added background, list-style, color and hover features to the navbar menu
+* Added border-bottom features to the header
+* Added background, list-style, color and hover features to the navbar menu
 
 ## 2. Create the showcase section for the main content of the home page
 
@@ -53,15 +53,15 @@ A User can see my initial repository and live demo
 
 ### HTML
 
-> Created `section` tag with the id name `showcase`
-> Used class `center-xs, center-sm, center-md, center-lg`for flexbox alignment features
-> Used class `col-xs-10, col-sm-10, col-md-10, col-lg-7` for responsive layout
+* Created `section` tag with the id name `showcase`
+* Used class `center-xs, center-sm, center-md, center-lg`for flexbox alignment features
+* Used class `col-xs-10, col-sm-10, col-md-10, col-lg-7` for responsive layout
 
 ### CSS
 
-> Added background image to the showcase with `background: url();` feature
-> Added color, font, margin and padding features for the showcase
-> Added `opacity` feature for transparency
+* Added background image to the showcase with `background: url();` feature
+* Added color, font, margin and padding features for the showcase
+* Added `opacity` feature for transparency
 
 ## Finishing Touches
 
