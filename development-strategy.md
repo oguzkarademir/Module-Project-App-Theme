@@ -33,11 +33,15 @@ A User can see my initial repository and live demo
 
 ### HTML
 
-what did you change in the HTML and why?
+> Created `header` tag
+> Created `nav` tag for navbar menu in the header tag
+> Used class `end-sm, end-md, end-lg`for flexbox alignment features of the navbar menu
+> Used class `col-xs-12, col-sm-10, col-md-10, col-lg-10` for responsive layout
 
 ### CSS
 
-what did you change in the CSS and why?
+> Added border-bottom features to the header
+> Added background, list-style, color and hover features to the navbar menu
 
 ## 2. ...
 
